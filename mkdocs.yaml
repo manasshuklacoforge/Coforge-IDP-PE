@@ -1,7 +1,6 @@
-site_name: 'Example Documentation'
-repo_url: https://github.com/your_org/your_repo
-edit_uri: url to your index.md
-
+site_name: 'Coforge-IDP-PE Documentation'
+repo_url: https://github.com/manasshuklacoforge/Coforge-IDP-PE
+edit_uri: https://github.com/manasshuklacoforge/Coforge-IDP-PE/blob/main/docs/index.md
 nav:
   - Home: index.md
 
