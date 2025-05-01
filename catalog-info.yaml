@@ -5,7 +5,7 @@ metadata:
   description: First Service for the POC of Coforge-IDP
   annotations:
     backstage.io/techdocs-ref: dir:.
-    harness.io/workspace-url:
+    harness.io/workspace-url: |
       labelA: https://app.harness.io/ng/account/8Xl8tQSaSeyvtccXETil_Q/module/iacm/orgs/CoforgeCIMSPE/projects/CoforgeIDPPE/workspaces/CoforgeIDPPE/resources
   tags:
     - java
